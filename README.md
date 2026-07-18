@@ -10,7 +10,7 @@ Published mod available on mod.io with 600+ downloads. The project is complete a
 
 ## More Information
 
-This repository serves as a small overview for the full project on mod.io. For detailed ability descriptions, progression paths, and gameplay overview, see the mod page: [Darkin Class](https://mod.io/g/baldursgate3/m/darkin-class#description)
+This repository serves as a small overview for the full project which can be found on mod.io. For detailed ability descriptions, progression paths, and gameplay overview, see the mod page: [Darkin Class](https://mod.io/g/baldursgate3/m/darkin-class#description)
 
 ## Tools Used
 
@@ -89,4 +89,13 @@ Designed a summon-focused subclass.
 - Created mechanics that allow summoned wolves to benefit from player-applied effects.
 - Implemented resource management through spell slot usage and temporary statuses.
 - Designed abilities around coordinating player actions with companion behavior.
+
+### Gameplay Examples
+
+[Darkin Greatsword combo]
+
+[Blight stacking/detonation]
+
+[Wolf summon mechanics]
+
 
