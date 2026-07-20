@@ -90,12 +90,19 @@ Designed a summon-focused subclass.
 - Implemented resource management through spell slot usage and temporary statuses.
 - Designed abilities around coordinating player actions with companion behavior.
 
+
 ### Gameplay Examples
 
-[Darkin Greatsword combo]
+#### Subclass Selection 
+![ui Example](Media/UI.png)
 
-[Blight stacking/detonation]
+#### Darkin Greatsword Combo 
+![Darkin Greatsword combo](Media/Greatsword.gif)
 
-[Wolf summon mechanics]
+#### Dakin Bow Blight Detonation 
+![Blight stacking/detonation](Media/Bow.gif)
+
+#### Darkin Dagger Summoning
+![Wolf summon mechanics](Media/Dagger.gif)
 
 
