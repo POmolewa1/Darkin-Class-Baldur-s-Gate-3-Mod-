@@ -6,7 +6,7 @@ This project was created using Baldur's Gate 3's data-driven modding toolkit to 
 
 ## Project Status
 
-Published mod available on mod.io with 600+ downloads. The project is complete and is open to receiving maintenance based on player feedback.
+Published mod available on mod.io with 2000+ downloads. The project is complete and is open to receiving maintenance based on player feedback.
 
 ## More Information
 
